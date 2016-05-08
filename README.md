@@ -1,5 +1,5 @@
 ## Thumbnailer
-Thumbnailer is a command line app that lets you crceate thumnail copies of your original image.
+Thumbnailer is a command line app that lets you create thumbnail copies of your original image.
 
 ## Example
 
@@ -47,6 +47,9 @@ No real motivation as such, apart from wanting to experiment with the package pi
 For the script to run, you will need to install pillow. You can install it using the command pip install pillow.
 1. place the script thumbnail.py in the same folder as the images you wont to covert into thumbnails.
 2. The scrpit will create a folder called created_thumbnails where the converted images are placed.
+
+## License 
+The repo is licensed under MIT.
 
 
 
